@@ -1,7 +1,5 @@
-public class {
-  
+public class DosyaAnaliz {
 }
-
 // sa
 /* as */
 /** */
