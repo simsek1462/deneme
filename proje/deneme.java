@@ -7,4 +7,5 @@ public class DosyaAnaliz {
 // sa
 /* as */
 /** 
+  @a
 */
